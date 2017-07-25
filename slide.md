@@ -208,7 +208,7 @@ export const incrementalSearch = (
 + [【翻訳】あなたが求めていたリアクティブプログラミング入門](http://ninjinkun.hatenablog.com/entry/introrxja)
 + [Rx(JS)に入門する前に知っておきたいN個のこと](http://blog.mmmcorp.co.jp/blog/2015/12/20/prepare-to-rxjs/)
 + [RxJS(5.x)で行うテストファーストな機能開発](http://blog.mmmcorp.co.jp/blog/2016/06/25/testing-rxjs-5/)
-+ [ RxJS入門 | CodeGrid](https://app.codegrid.net/series/2017-rxjs)
++ [RxJS入門 | CodeGrid](https://app.codegrid.net/series/2017-rxjs)
 
 ----
 
